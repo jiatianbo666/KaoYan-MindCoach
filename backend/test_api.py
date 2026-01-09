@@ -8,8 +8,8 @@ import json
 
 # 配置
 BASE_URL = "http://localhost:8000/api/v1"
-EMAIL = "3099473107@qq.com"  # 修改为您的邮箱
-PASSWORD = "Cyx20041120"     # 修改为您的密码
+EMAIL = " "  # 修改为您的邮箱
+PASSWORD = " "     # 修改为您的密码
 
 def login():
     """登录并获取token"""
